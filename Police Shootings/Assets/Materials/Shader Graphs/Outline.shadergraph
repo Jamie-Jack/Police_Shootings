@@ -48,7 +48,7 @@
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.PropertyNode"
             },
-            "JSONnodeData": "{\n    \"m_GuidSerialized\": \"75a0115a-f51a-4ceb-9aa9-5704ea55813f\",\n    \"m_GroupGuidSerialized\": \"00000000-0000-0000-0000-000000000000\",\n    \"m_Name\": \"Property\",\n    \"m_DrawState\": {\n        \"m_Expanded\": true,\n        \"m_Position\": {\n            \"serializedVersion\": \"2\",\n            \"x\": -518.800048828125,\n            \"y\": -53.399993896484378,\n            \"width\": 0.0,\n            \"height\": 0.0\n        }\n    },\n    \"m_SerializableSlots\": [\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.Vector1MaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 0,\\n    \\\"m_DisplayName\\\": \\\"Edge\\\",\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"Out\\\",\\n    \\\"m_StageCapability\\\": 3,\\n    \\\"m_Value\\\": 0.0,\\n    \\\"m_DefaultValue\\\": 0.0,\\n    \\\"m_Labels\\\": [\\n        \\\"X\\\"\\n    ]\\n}\"\n        }\n    ],\n    \"m_Precision\": 0,\n    \"m_PreviewExpanded\": true,\n    \"m_CustomColors\": {\n        \"m_SerializableColors\": []\n    },\n    \"m_PropertyGuidSerialized\": \"dfa87ab8-8a21-4f37-9c3c-1d6219c5e3e0\"\n}"
+            "JSONnodeData": "{\n    \"m_GuidSerialized\": \"75a0115a-f51a-4ceb-9aa9-5704ea55813f\",\n    \"m_GroupGuidSerialized\": \"00000000-0000-0000-0000-000000000000\",\n    \"m_Name\": \"Property\",\n    \"m_DrawState\": {\n        \"m_Expanded\": true,\n        \"m_Position\": {\n            \"serializedVersion\": \"2\",\n            \"x\": -583.0,\n            \"y\": -40.0,\n            \"width\": 98.0,\n            \"height\": 34.0\n        }\n    },\n    \"m_SerializableSlots\": [\n        {\n            \"typeInfo\": {\n                \"fullName\": \"UnityEditor.ShaderGraph.Vector1MaterialSlot\"\n            },\n            \"JSONnodeData\": \"{\\n    \\\"m_Id\\\": 0,\\n    \\\"m_DisplayName\\\": \\\"Edge\\\",\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Priority\\\": 2147483647,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_ShaderOutputName\\\": \\\"Out\\\",\\n    \\\"m_StageCapability\\\": 3,\\n    \\\"m_Value\\\": 0.0,\\n    \\\"m_DefaultValue\\\": 0.0,\\n    \\\"m_Labels\\\": [\\n        \\\"X\\\"\\n    ]\\n}\"\n        }\n    ],\n    \"m_Precision\": 0,\n    \"m_PreviewExpanded\": true,\n    \"m_CustomColors\": {\n        \"m_SerializableColors\": []\n    },\n    \"m_PropertyGuidSerialized\": \"dfa87ab8-8a21-4f37-9c3c-1d6219c5e3e0\"\n}"
         },
         {
             "typeInfo": {
@@ -111,13 +111,13 @@
             "typeInfo": {
                 "fullName": "UnityEditor.Graphing.Edge"
             },
-            "JSONnodeData": "{\n    \"m_OutputSlot\": {\n        \"m_SlotId\": 2,\n        \"m_NodeGUIDSerialized\": \"1fc0ece5-47f7-41a1-9a9b-20111b36b6db\"\n    },\n    \"m_InputSlot\": {\n        \"m_SlotId\": 7,\n        \"m_NodeGUIDSerialized\": \"05af6fd9-db2f-4af8-9442-3a728e9b97ce\"\n    }\n}"
+            "JSONnodeData": "{\n    \"m_OutputSlot\": {\n        \"m_SlotId\": 0,\n        \"m_NodeGUIDSerialized\": \"53f10d99-5d83-4d1a-b780-f16b6480b669\"\n    },\n    \"m_InputSlot\": {\n        \"m_SlotId\": 0,\n        \"m_NodeGUIDSerialized\": \"95db2b97-f024-4614-85a9-38ff5a1c2d9a\"\n    }\n}"
         },
         {
             "typeInfo": {
                 "fullName": "UnityEditor.Graphing.Edge"
             },
-            "JSONnodeData": "{\n    \"m_OutputSlot\": {\n        \"m_SlotId\": 0,\n        \"m_NodeGUIDSerialized\": \"53f10d99-5d83-4d1a-b780-f16b6480b669\"\n    },\n    \"m_InputSlot\": {\n        \"m_SlotId\": 0,\n        \"m_NodeGUIDSerialized\": \"95db2b97-f024-4614-85a9-38ff5a1c2d9a\"\n    }\n}"
+            "JSONnodeData": "{\n    \"m_OutputSlot\": {\n        \"m_SlotId\": 2,\n        \"m_NodeGUIDSerialized\": \"1fc0ece5-47f7-41a1-9a9b-20111b36b6db\"\n    },\n    \"m_InputSlot\": {\n        \"m_SlotId\": 7,\n        \"m_NodeGUIDSerialized\": \"05af6fd9-db2f-4af8-9442-3a728e9b97ce\"\n    }\n}"
         }
     ],
     "m_PreviewData": {

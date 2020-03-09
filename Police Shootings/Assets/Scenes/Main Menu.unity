@@ -1838,7 +1838,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Police Shootings '
+  m_Text: Untitled Police Shooting Game
 --- !u!222 &657194942
 CanvasRenderer:
   m_ObjectHideFlags: 0
